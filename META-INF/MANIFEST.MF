@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Created-By: Apache Maven 3.9.3
+Built-By: adminwavecomm
+Build-Jdk: 11.0.16
+Implementation-Title: SDx_WO_conn
+Implementation-Version: 20250120
+Implementation-Vendor-Id: com.kadme
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/SDx_WO_conn
+Main-Class: org.springframework.boot.loader.JarLauncher
+Start-Class: com.wavecomm.SDx.SDx_Application
+Spring-Boot-Version: 2.0.4.RELEASE
+Spring-Boot-Classes: BOOT-INF/classes/
+Spring-Boot-Lib: BOOT-INF/lib/
+
